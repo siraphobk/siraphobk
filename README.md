@@ -8,7 +8,7 @@ Hi everyone, my name is Siraphob. I'm a software engineer located in Thailand. I
 
 #### 🎯 My goals
 - Create useful open-source projects
-- Learning new skills and frameworks
+- Learn new skills and frameworks
 
 #### 📫 How to reach me
 - Email: siraphob.k@outlook.com
