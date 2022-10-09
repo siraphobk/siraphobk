@@ -1,6 +1,6 @@
 ### Sup, world! 🙋‍♂️🌍
 
-Hi everyone, my name is Siraphob. I'm a software engineer located in Thailand. I believe that good software improves people's quality of life.
+Hi everyone, my name is Siraphob. I'm a software engineer based in Thailand. I believe that good software improves people's quality of life.
 
 #### 💪 My Expertise
 - Backend System Development
