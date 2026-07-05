@@ -1,10 +1,5 @@
 ### Sup, world! 🙋‍♂️🌍
 
-[![Siraphobk's github stats](https://github-readme-stats.vercel.app/api?username=siraphobk&count_private=true&show_icons=true)](https://github.com/siraphobk)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siraphobk)](https://github.com/siraphobk)
-
-
 Hi everyone, my name is Siraphob. I'm a software engineer based in Thailand. I believe that good software improves people's quality of life.
 
 #### 💪 My Expertise
